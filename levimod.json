@@ -1,20 +1,18 @@
 {
   "schema_version": 1,
-  "id": "bedrocktools",
-  "version": "1.4.9",
+  "id": "legalbedrockcosmos",
+  "version": "1.3.0",
   "minecraft_versions": [
     "1.26.45.1"
   ],
   "info": {
-    "name": "BedrockTools",
-    "author": "MrPokeG",
-    "description": "A collection of utility, HUD, player, and visual modules for Minecraft Bedrock.",
-    "homepage_url": "https://github.com/QYCottage/BedrockTools",
-    "icon": "assets/bedrocktools.png",
+    "name": "Legal Bedrock Cosmos",
+    "author": "zhyion071",
+    "description": "A native mod port of bedrock cosmos for LeviLaunchroid, but without the capes unlocker.",
+    "homepage_url": "https://github.com/zhyion071/Legal-Bedrock-Cosmos/",
+    "icon": "assets/icon.png",
     "tags": [
-      "Utility",
-      "HUD",
-      "Visual"
+      "Cosmetic"
     ]
   },
   "release_assets": {
@@ -23,8 +21,8 @@
       "*.so"
     ],
     "labels": {
-      "BedrockTools.levipack": "LeviPack",
-      "libBedrockTools.so": "Native library"
+      "LegalBedrockCosmos.levipack": "LeviPack",
+      "libLegalBedrockCosmos.so": "Native library"
     }
   }
 }

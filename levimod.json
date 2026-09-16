@@ -22,7 +22,7 @@
       "*.so"
     ],
     "labels": {
-      "LegalBedrockCosmos.levipack": "LeviPack",
+      "Legal.Bedrock.Cosmos.levipack": "LeviPack",
       "libLegalBedrockCosmos.so": "Native library"
     }
   }

@@ -18,7 +18,7 @@
   },
   "download": {
     "type": "browser",
-    "url": ""
+    "url": "https://github.com/zhyion071/Legal-Bedrock-Cosmos/releases/download/1.3.3/LegalBedrockCosmos-26.62.1.levipack"
   },
   "release_assets": {
     "include": [
@@ -26,7 +26,7 @@
       "*.so"
     ],
     "labels": {
-      "Legal.Bedrock.Cosmos.levipack": "LeviPack",
+      "LegalBedrockCosmos-26.62.1.levipack": "LeviPack",
       "libLegalBedrockCosmos.so": "Native library"
     }
   }
